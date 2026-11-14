@@ -2,7 +2,7 @@
 
 Web app to compare lunar landing sites and dates. Pick a site and a time, see where the Sun and the Earth sit above the local horizon, and understand what that means for solar power and direct-to-Earth communication.
 
-Built by team **ORYSEL** for the NASA Space Apps Challenge 2026 (*Lunar Landing Site Navigator*), Tuxtla Gutiérrez node. MoonDial is a working name.
+Built by team **ORYSEL** for the NASA Space Apps Challenge 2026 (*Lunar Landing Site Navigator*)
 
 ## Features
 
